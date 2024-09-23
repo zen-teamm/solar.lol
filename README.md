@@ -1,4 +1,4 @@
-![1000060388](https://github.com/user-attachments/assets/8e5ed587-d756-4775-aa50-facb08e76cba)
+![1000060553](https://github.com/user-attachments/assets/df9112b6-6f82-413d-a97a-df2f9313119c)
 
 # solar.lol
 A script that mainly focuses on being liteweight and Solara Compatibile.
