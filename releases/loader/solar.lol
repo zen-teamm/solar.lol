@@ -16,6 +16,6 @@ if not gameid[game.PlaceId] then
 else
     -- Arsenal
     if game.PlaceId == 286090429 then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/zen-teamm/solar.lol/refs/heads/main/releases/script/solar-1.txt"))()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/zen-teamm/solar.lol/refs/heads/main/releases/scripts/lolprotect.txt"))()
     end
 end
